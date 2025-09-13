@@ -5,7 +5,7 @@ Systems Analysis and Development student, tech enthusiast, and nature lover. Big
 ## Tech stack
 
 <div>
-  <img height="40px" src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,obsidian,windows,linux,figma,pycharm" />
+  <img height="40px" src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql,obsidian,windows,linux,figma,pycharm"/>
 </div>
 
 ## Projects
