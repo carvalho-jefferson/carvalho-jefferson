@@ -1,4 +1,8 @@
+![sky](https://github.com/user-attachments/assets/de1c9452-c931-447c-b226-1e395f615854)
+
+
 # Hello, I'm Jefferson! 🙂
+
 
 Systems Analysis and Development student, tech enthusiast, and nature lover. Big fan of anime and films, always curious about the world. Currently building a solid foundation in the IT field and expanding my technical skills.
 
