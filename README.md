@@ -1,12 +1,15 @@
-# Hello, I'm Jefferson! 🙂
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J5bHc3YWpzcWN4dXBscWdpb2N2a2diZXhsYnlwMXJrcWdwM2I1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/fqzhvAIwpywkEHdnbJ/giphy.gif" height="180px">
+</p>
 
+Hello, I'm Jefferson! 🙂
 
 Systems Analysis and Development student, tech enthusiast, and nature lover. Big fan of anime and films, always curious about the world. Currently building a solid foundation in the IT field and expanding my technical skills.
 
 ## Tech stack
 
 <div>
-  <img height="40px" src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql,obsidian,windows,linux,figma,pycharm"/>
+  <img height="38px" src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql,obsidian,windows,linux,figma,pycharm"/>
 </div>
 
 ## Projects
