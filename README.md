@@ -1,6 +1,3 @@
-![sky](https://github.com/user-attachments/assets/de1c9452-c931-447c-b226-1e395f615854)
-
-
 # Hello, I'm Jefferson! 🙂
 
 
