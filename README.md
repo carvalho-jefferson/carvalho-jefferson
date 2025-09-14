@@ -4,8 +4,7 @@
 
 Hello, I'm Jefferson! 🙂
 
-Systems Analysis and Development student, tech enthusiast, and nature lover. Big fan of anime and films, always curious about the world. Currently building a solid foundation in the IT field and expanding my technical skills.
-
+Systems Analysis and Development student, tech enthusiast, and nature admirer. Passionate about the cinematic universe — from anime and films to documentaries — and always curious about the world. Currently focused on building a strong foundation in IT and continuously expanding my technical skills.
 ## Tech stack
 
 <div>
