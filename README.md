@@ -16,7 +16,7 @@ Systems Analysis and Development student, tech enthusiast, and nature admirer. P
 
 - [Between Worlds: Beginning](https://github.com/carvalho-jefferson/Between-Worlds-Beginning) - 2D space shooter where you navigate your spaceship through hostile enemies and challenging phases
 - [Conexão do Bem](https://carvalho-jefferson.github.io/conexao-do-bem/) - a food donation website that connects businesses and producers with charities
-- [Personal Portfolio]() - under construction
+- [Personal blog]() - under construction
 
 ## ☕ Grab a coffee and let’s have a chat
 
