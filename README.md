@@ -6,12 +6,6 @@ Hello, I'm Jefferson! 🙂
 
 Systems Analysis and Development student, tech enthusiast, and nature admirer. Passionate about the cinematic universe and always curious about the world. Currently focused on building a strong foundation in IT and continuously expanding my technical skills.
 
-## Tech stack
-
-<div>
-  <img height="38px" src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql,obsidian,windows,linux,figma,pycharm"/>
-</div>
-
 ## Projects
 
 - [Between Worlds: Beginning](https://github.com/carvalho-jefferson/Between-Worlds-Beginning) - 2D space shooter where you navigate your spaceship through hostile enemies and challenging phases
