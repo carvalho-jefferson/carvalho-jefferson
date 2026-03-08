@@ -15,8 +15,4 @@ Systems Analysis and Development student, tech enthusiast, and nature admirer. P
 ## ☕ Grab a coffee and let’s have a chat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1jefferson-carvalho/)
-
-## My GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carvalho-jefferson&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalho-jefferson&layout=compact&theme=react)          
+        
