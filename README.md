@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdnYTI4Y3A2Yzd5dW9qanE0aWlxNHk1andxNnB1NDIyNW1mZGxpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aaMe7xemWlR8LwZqyn/giphy.gif" height="70px" width="100%">
+  <img src="https://images.unsplash.com/photo-1705314914898-130fa5fa2e70?q=80&w=821&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="70px" width="100%">
 </p>
 
 Hello, I'm Jefferson
