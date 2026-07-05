@@ -11,8 +11,6 @@ I enjoy developing software, learning new tools, and building products that comb
 ## Projects
 
 - [Guicu](https://github.com/carvalho-jefferson/guicu) — ATS-friendly resume builder.
-- [Between Worlds: Beginning](https://github.com/carvalho-jefferson/between-worlds-beginning) — 2D space shooter game.
-- [Conexão do Bem](https://github.com/carvalho-jefferson/conexao-do-bem) — Food donation platform connecting donors and charities.
 
 ## Contact
 
