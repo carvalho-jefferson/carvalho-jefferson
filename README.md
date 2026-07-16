@@ -4,9 +4,9 @@
 
 Hello, I'm Jefferson
 
-Software developer interested in building useful products and exploring technologies that create real impact.
+Software developer focused on building useful products.
 
-I enjoy developing software, learning new tools, and building products that combine technical quality with practical results.
+I'm interested in backend development, automation, AI, and open source. I enjoy learning new technologies, contributing to meaningful projects, and creating software that solves real problems.
 
 ## Projects
 
