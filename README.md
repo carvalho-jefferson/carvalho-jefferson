@@ -7,11 +7,3 @@ Hello, I'm Jefferson
 Software developer focused on building useful products.
 
 I'm interested in backend development, automation, AI, and open source. I enjoy learning new technologies, contributing to meaningful projects, and creating software that solves real problems.
-
-## Projects
-
-- [Guicu](https://github.com/carvalho-jefferson/guicu) — ATS-friendly resume builder.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/1jefferson-carvalho/)
